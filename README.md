@@ -24,3 +24,6 @@
 1. the user can determine the area, circumference, and diameter of a circle
 2. the program uses functions
 3. this tool can be used for a number of different calculations and situations
+
+## dependencies 
+- a C++ IDE
