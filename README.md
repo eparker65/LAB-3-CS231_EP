@@ -10,10 +10,10 @@
 5. use the program
 
 ## How to use the program
--the program will give you 4 options to choose from
--choose either option 1,2,3, or -1(or option 4)
--the program will then ask you to input the radius of your choosing
--depending on what you chose, the program will output the area, circumference, or diameter of a circle based on the radius you provided
+1. the program will give you 4 options to choose from
+2. choose either option 1,2,3, or -1(or option 4)
+3. the program will then ask you to input the radius of your choosing
+4. depending on what you chose, the program will output the area, circumference, or diameter of a circle based on the radius you provided
 
 ## User Stories
 1. users can use this program to determine differenct calculations surrounding a circle
